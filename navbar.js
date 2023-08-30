@@ -15,6 +15,8 @@ var html =
 \
 <li><a href="sponsors.html">Sponsors</a></li>\
 \
+<li><a href="calendar.html">Calendar</a></li>\
+\
 <li><a href="contact.html">Contact</a></li>\
 </ul>\
 <i class="bi bi-list mobile-nav-toggle"></i>';
