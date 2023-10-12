@@ -1,3 +1,5 @@
+2023-10-11 - Added a FRC Season Overview Page to easily share when responding to contact forms and increasing site visitor knowledge about the program. 
+
 12.10.2021 - Made all headers and footers editable from one file. Added About, Support and Contact pages. Still need sponsorship levels PDF added, donation link, new hero picture from Kylie. and a Spnsors page built. 
 
 11.22.2021 - Fixed STEM Icons to be Green. Fixed mobile nav colors. Removed feature background image forward and back buttons. 

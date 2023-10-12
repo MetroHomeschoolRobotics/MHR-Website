@@ -5,6 +5,7 @@ var html =
 <li class="dropdown"><a href="about.html"><span>About</span> <i class="bi bi-chevron-down"></i></a>\
   <ul>\
     <li><a href="about.html">About</a></li>\
+    <li><a href="frc-season-overview.html">FRC Season Overview</a></li>\
     <li><a href="testimonials.html">Testimonials</a></li>\
   </ul>\
 </li>\
