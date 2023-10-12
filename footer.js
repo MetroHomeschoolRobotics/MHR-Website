@@ -5,7 +5,7 @@ var html =
     <div class="col-lg-3 col-md-6 text-center">\
       <div class="footer-info">\
         <div class="social-links mt-3">\
-          <a href="https://www.facebook.com/Metro-Homeschool-Robotics-Team-107266009306531/" class="facebook"><i class="bx bxl-facebook"></i></a>\
+          <a href="https://www.facebook.com/mhrcyborgs" class="facebook"><i class="bx bxl-facebook"></i></a>\
           <a href="https://www.instagram.com/mhr_cyborgs/" class="instagram"><i class="bx bxl-instagram"></i></a>\
           <a href="https://twitter.com/mhrcyborgs" class="twitter"><i class="bx bxl-twitter"></i></a>\
           <a href="https://www.youtube.com/user/MetroCyborgs" class="youtube"><i class="bx bxl-youtube"></i></a>\
