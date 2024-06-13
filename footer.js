@@ -1,21 +1,5 @@
 var html = 
-'    <div class="footer-top">\
-<div class="container">\
-  <div class="row">\
-    <div class="col-lg-3 col-md-6 text-center">\
-      <div class="footer-info">\
-        <div class="social-links mt-3">\
-          <a href="https://www.facebook.com/mhrcyborgs" class="facebook"><i class="bx bxl-facebook"></i></a>\
-          <a href="https://www.instagram.com/mhr_cyborgs/" class="instagram"><i class="bx bxl-instagram"></i></a>\
-          <a href="https://twitter.com/mhrcyborgs" class="twitter"><i class="bx bxl-twitter"></i></a>\
-          <a href="https://www.youtube.com/user/MetroCyborgs" class="youtube"><i class="bx bxl-youtube"></i></a>\
-        </div>\
-      </div>\
-    </div>\
-  </div>\
-</div>\
-</div>\
-<div class="container">\
+'<div class="container">\
 <div class="copyright">\
   &copy; Copyright <strong><span>Metro Homeschool Robotics Inc</span></strong>. All Rights Reserved\
 </div>\
@@ -27,7 +11,6 @@ var html =
   Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> &\
   <br>\
   <a href="http://horseytech.com/">Horsey Tech</a>\
-</div>\
 </div>';
 
 document.getElementById('footer').innerHTML = html;
