@@ -542,11 +542,11 @@ section {
   font-size: 24px;
 }
 .about .content ul {
-  list-style: none;
-  padding: 0;
+  list-style: disc;
+  padding: 80;
 }
 .about .content ul li {
-  padding: 10px 0 0 28px;
+  padding: 10px 0 0 8px;
   position: relative;
 }
 .about .content ul i {
