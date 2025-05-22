@@ -1,5 +1,6 @@
 var html = 
-'<div class="container">\
+'<footer id="footer" class="mt-auto">\
+<div class="container">\
 <div class="copyright">\
   &copy; Copyright <strong><span>Metro Homeschool Robotics Inc</span></strong>. All Rights Reserved\
 </div>\
@@ -11,6 +12,7 @@ var html =
   Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> &\
   <br>\
   <a href="http://horseytech.com/">Horsey Tech</a>\
-</div>';
+</div>\
+</footer>';
 
 document.getElementById('footer').innerHTML = html;
