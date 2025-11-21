@@ -13,6 +13,8 @@ var html =
 \
 <li><a href="support.html">Support</a></li>\
 \
+<li><a href="https://metro-homeschool-robotics.printify.me/">Store</a></li>\
+\
 <li><a href="media.html">Media</a></li>\
 \
 <li><a href="sponsors.html">Sponsors</a></li>\
