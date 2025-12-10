@@ -7,7 +7,6 @@ var html =
     <li><a href="about.html">About</a></li>\
     <li><a href="frc-season-overview.html">FRC Season Overview</a></li>\
     <li><a href="subteam-structure.html">Our Subteam Structure</a></li>\
-    <li><a href="testimonials.html">Testimonials</a></li>\
   </ul>\
 </li>\
 \
